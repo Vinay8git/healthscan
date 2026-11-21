@@ -1,5 +1,9 @@
 # HealthScan
 
+## An App to test the ingredients of any product using Barcode, Barcode Number, Ingredients List and Ingredients Picture
+## Ingredients are scanned and filtered based on EU health guidelines
+# HealthScan
+
 A privacy-first React + Tailwind prototype for scanning a product barcode or ingredient-label photo and producing an explainable ingredient-screening verdict.
 
 ## Features
